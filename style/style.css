@@ -29,6 +29,9 @@ a {
 	flex-direction: column;
 }
 
+.header-logo {
+	margin-bottom: 30px
+}
 
 .text_wrapper {
 	background-color: #65AD9C;
